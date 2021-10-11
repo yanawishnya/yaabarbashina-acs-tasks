@@ -1,0 +1,44 @@
+Sorted container:
+Container contains 14 elements.
+1: It is encryption by cyclic shifting the code of each symbol by n:
+456456456­ºŒý
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 50
+2: It is encryption by replacing characters with numbers:
+49113491134911349113494911349113113491134911349
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 79.3158
+3: It is encryption by replacing characters with numbers:
+116104101119101101107110100484948494849
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 83.3333
+4: It is encryption by replacing characters with numbers:
+10897109117115105999711610410110410111411412110211497117100495051495051495051
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 90.0667
+5: It is encryption by replacing characters with numbers:
+491135011951101521145311654121551175610557111115104104102115104106102
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 90.2308
+6: It is encryption by swapping symbols with another symbols:
+ª©¨ª©¨shquqhwsuhqwsuqhus†\‡
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 92
+7: It is encryption by replacing characters with numbers:
+1151001061071021041071061151005050
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 96.8333
+8: It is encryption by swapping symbols with another symbols:
+zzz
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 97
+9: It is encryption by cyclic shifting the code of each symbol by n:
+q8q8q8qvodoovoovo
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 99.3529
+10: It is encryption by cyclic shifting the code of each symbol by n:
+dvgdmveikdvek
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 103.692
+11: It is encryption by cyclic shifting the code of each symbol by n:
+ngpiodpinopinqh
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 105.2
+12: It is encryption by replacing characters with numbers:
+1061001101101191071101021031011039898100102989910611910611810710011511011810610398103102100104102106115102117121117116114116114117119101981181109910910711411010111098102110118
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 107.574
+13: It is encryption by cyclic shifting the code of each symbol by n:
+tzhtzhtzhhulwblhuxwhluxwhlxuwPROCESSOR_RAÞP‡I
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 110.862
+14: It is encryption by swapping symbols with another symbols:
+gizerhhxlgg
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 111.091

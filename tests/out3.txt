@@ -1,0 +1,11 @@
+Filled container:
+Container contains 3 elements.
+1: It is encryption by replacing characters with numbers:
+9749115501005110252
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 77
+2: It is encryption by swapping symbols with another symbols:
+rolevormzoz
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 107.1
+3: It is encryption by cyclic shifting the code of each symbol by n:
+odododod456456
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 80
