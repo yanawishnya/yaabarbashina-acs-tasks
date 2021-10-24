@@ -1,0 +1,17 @@
+Sorted container:
+Container contains 5 elements.
+1: It is encryption by replacing characters with numbers:
+101118105107101102
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 105.667
+2: It is encryption by swapping symbols with another symbols:
+amrnppzhedhivmapbxcucgohtbkhuzwkllvucayxlvqfekezyh
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 109.857
+3: It is encryption by replacing characters with numbers:
+9911110711510212210711897116120100107110108121106121104102105120106115119110107107117102110117120120122114122981091101091031131111111071011161081211041101071119711710312211311499100100105117116101105111106119971211211221121181159910911211597106108102118103117981029797111118108122121108110
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 110.04
+4: It is encryption by replacing characters with numbers:
+113103104117109101971211081101081021001201021051149911811599120103103981191071021101131001171201191021101021111221181151141161071061121141011121031031201141121101141181211151161091199912111512112199
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 110.412
+5: It is encryption by cyclic shifting the code of each symbol by n:
+jsrhboiseqsomyuylsbdpbhkztqtutspaxmmorrydrzxazkpvqf
+The quotient of dividing the sum of codes of an unencrypted string by the number of characters in this string: 110.667
