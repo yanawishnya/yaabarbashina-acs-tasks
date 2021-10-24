@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/avs_dz2/container.h
+text.h
+D:/avs_dz2/text.h
+
+D:/avs_dz2/main.cpp
+iostream
+-
+cstdlib
+-
+chrono
+-
+cstring
+-
+container.h
+D:/avs_dz2/container.h
+
+D:/avs_dz2/rnd.h
+cstdlib
+-
+
+D:/avs_dz2/text.h
+fstream
+-
+rnd.h
+D:/avs_dz2/rnd.h
+

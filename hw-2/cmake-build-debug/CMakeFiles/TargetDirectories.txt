@@ -1,0 +1,3 @@
+D:/avs_dz2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/avs_dz2/cmake-build-debug/CMakeFiles/avs_dz2.dir
+D:/avs_dz2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"D:\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\avs_dz2.dir/objects.a
+D:\CppProjects\min\mingw64\bin\ar.exe cr CMakeFiles\avs_dz2.dir/objects.a @CMakeFiles\avs_dz2.dir\objects1.rsp
+D:\CppProjects\min\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\avs_dz2.dir/objects.a -Wl,--no-whole-archive -o avs_dz2.exe -Wl,--out-implib,libavs_dz2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\avs_dz2.dir\linklibs.rsp
