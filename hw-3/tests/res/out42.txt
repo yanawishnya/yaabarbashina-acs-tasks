@@ -1,0 +1,58 @@
+Container stores 14 texts:
+Text with shift encryption: 
+	Open text: sometype 
+	Encrypted text = vrphwbshvrphwbsh
+	Quotient = 110.75
+Text with shift encryption: 
+	Open text: kyliejenner 
+	Encrypted text = nbolhmhqqhunbolhmhqqhu
+	Quotient = 107.63636363636364
+Text with shift encryption: 
+	Open text: keepingupwiththekardashians 
+	Encrypted text = nhhslqjxszlwkwkhndugdvkldqvnhhslqjxszlwkwkhndugdvkldqv
+	Quotient = 107.18518518518519
+Text with digits encryption: 
+	Open text: ghghgghghghghghghghg 
+	Encrypted text = 103104103104103103104103104103104103104103104103104103104103103104103104103103104103104103104103104103104103104103104103
+	Quotient = 103.45
+Text with swap encryption: 
+	Open text: abfjabscakvbjadbbdhshaf 
+	Encrypted text = c12defg3klm5ns4tu67vwx8c12defg3klm5ns4tu67vwx8
+	Quotient = 102.30434782608695
+Text with shift encryption: 
+	Open text: shylnhiipcqlpnndvyzvuhqcnbfaiawovjbsvidgsrrhiac123123 
+	Encrypted text = vkboqkllsftosqqgybcyxktfqeidldzrymevylgjvuukldf456456vkboqkllsftosqqgybcyxktfqeidldzrymevylgjvuukldf456456
+	Quotient = 101.84905660377359
+Text with digits encryption: 
+	Open text: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssdddddddddddddddddffffffffffffffffffggggggg 
+	Encrypted text = 9797979797979797979797979797979797979797979797979797979797979797979797979797979797979797979797979711511511511511511511511511511511511511510010010010010010010010010010010010010010010010010010210210210210210210210210210210210210210210210210210210310310310310310310397979797979797979797979797979797979797979797979797979797979797979797979797979797979797979797979797115115115115115115115115115115115115115100100100100100100100100100100100100100100100100100102102102102102102102102102102102102102102102102102102103103103103103103103
+	Quotient = 101.00961538461539
+Text with swap encryption: 
+	Open text: kaytlinjenner005 
+	Encrypted text = c12defg3klm5ns4tc12defg3klm5ns4t
+	Quotient = 97.1875
+Text with swap encryption: 
+	Open text: 12313231sghdfbajsbcbsbjbabsbjbcjkaksjbac 
+	Encrypted text = c12defg3klm5ns4tu67vwx8opq0ry9zabhijc12dc12defg3klm5ns4tu67vwx8opq0ry9zabhijc12d
+	Quotient = 92.375
+Text with swap encryption: 
+	Open text: g1g1g11gg11g1g111gg1gdhajdkjaksjdk 
+	Encrypted text = c12defg3klm5ns4tu67vwx8opq0ry9zabhc12defg3klm5ns4tu67vwx8opq0ry9zabh
+	Quotient = 85.91176470588235
+Text with swap encryption: 
+	Open text: ajshdjhabschjb12372367hdbfjabjcbasc123123 
+	Encrypted text = c12defg3klm5ns4tu67vwx8opq0ry9zabhijc12dec12defg3klm5ns4tu67vwx8opq0ry9zabhijc12de
+	Quotient = 84.95121951219512
+Text with digits encryption: 
+	Open text: zcxvxbjsshsbeffjqbkbkjgvbdvb123123132312313123 
+	Encrypted text = 1229912011812098106115115104115981011021021061139810798107106103118981001189812312313231231312312299120118120981061151151041159810110210210611398107981071061031189810011898123123132312313123
+	Quotient = 84.91304347826087
+Text with digits encryption: 
+	Open text: zcxvxbjsshsbeffjqbkbkjgvbdvb123123132312313123 
+	Encrypted text = 1229912011812098106115115104115981011021021061139810798107106103118981001189812312313231231312312299120118120981061151151041159810110210210611398107981071061031189810011898123123132312313123
+	Quotient = 84.91304347826087
+Text with swap encryption: 
+	Open text: 1231231gdhadgasdjh 
+	Encrypted text = c12defg3klm5ns4tu6c12defg3klm5ns4tu6
+	Quotient = 82.11111111111111
+Summa of Quotients  = 1346.547250921735

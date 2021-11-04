@@ -1,0 +1,50 @@
+Container stores 12 texts:
+Text with digits encryption: 
+	Open text: qvfPDq2jgwAru89IgmZeJPS7uxU5nVg3bWFzGU8h 
+	Encrypted text = 11311810280681132106103119651141178973103109901017480837117120855110861033988770122718581041131181028068113210610311965114117897310310990101748083711712085511086103398877012271858104
+	Quotient = 89.175
+Text with shift encryption: 
+	Open text: cBSWe5LA8biqOfgalPbIwlhWTIiDfAldh6pWW6oxLZ1oaPnmp6fmdrVvcxB5kq2XTrVcXHkFKLA8X6uLsTuSJ6JHmR 
+	Encrypted text = fEVZh8OD;eltRijdoSeLzokZWLlGiDogk9sZZ9raOC4rdSqps9ipguYyfaE8nt5AWuYfAKnINOD;A9xOvWxVM9MKpUfEVZh8OD;eltRijdoSeLzokZWLlGiDogk9sZZ9raOC4rdSqps9ipguYyfaE8nt5AWuYfAKnINOD;A9xOvWxVM9MKpU
+	Quotient = 88.86666666666666
+Text with swap encryption: 
+	Open text: 23zw5OX9x4r1bqUbcDDe2ysbyKPg4qWsshgQ6h4NX8yJie9re0X7od56tG8QrSxcDTFirI8aRJ3bzmg 
+	Encrypted text = c12defg3klm5ns4tu67vwx8opq0ry9zabhijc12defg3klm5ns4tu67vwx8opq0ry9zabhijc12defgc12defg3klm5ns4tu67vwx8opq0ry9zabhijc12defg3klm5ns4tu67vwx8opq0ry9zabhijc12defg
+	Quotient = 87.0506329113924
+Text with digits encryption: 
+	Open text: oXoYJygLDV2QmygTPOHkpRJ8FhBlyJ0arwZgZJe4Zew7omw6QhC0nulbT7h8KMMRNSB47T 
+	Encrypted text = 1118811189741211037668862811091211038480797210711282748701046610812174097114119901039074101490101119711110911968110467011011710898847104875777782788366478411188111897412110376688628110912110384807972107112827487010466108121740971141199010390741014901011197111109119681104670110117108988471048757777827883664784
+	Quotient = 86.95714285714286
+Text with digits encryption: 
+	Open text: cFxnOuh6t2anG35y0KsG 
+	Encrypted text = 99701201107911710461162971107135121075115719970120110791171046116297110713512107511571
+	Quotient = 86.55
+Text with shift encryption: 
+	Open text: K3J0LfClX4z2hZmm5tSti6qmR01Le7zdXBv 
+	Encrypted text = N6M3OiFoA7c5kCpp8wVwl9tpU34Oh:cgAEyN6M3OiFoA7c5kCpp8wVwl9tpU34Oh:cgAEy
+	Quotient = 85.11428571428571
+Text with swap encryption: 
+	Open text: CbxSOK7LfuvjP9QXP0DAGJz 
+	Encrypted text = c12defg3klm5ns4tu67vwx8c12defg3klm5ns4tu67vwx8
+	Quotient = 83.91304347826087
+Text with digits encryption: 
+	Open text: Fh4bQNg 
+	Encrypted text = 701044988178103701044988178103
+	Quotient = 83.71428571428571
+Text with digits encryption: 
+	Open text: sQ7 
+	Encrypted text = 115817115817
+	Quotient = 83.66666666666667
+Text with swap encryption: 
+	Open text: i1b6pEcygtJ18l6kuQT2wA9zNsNLnN6QTtVU4Pap07C2xLls62tCUPpg25DJ 
+	Encrypted text = c12defg3klm5ns4tu67vwx8opq0ry9zabhijc12defg3klm5ns4tu67vwx8oc12defg3klm5ns4tu67vwx8opq0ry9zabhijc12defg3klm5ns4tu67vwx8o
+	Quotient = 83.36666666666666
+Text with shift encryption: 
+	Open text: rGP1C0vtIqtW7LnAD92shXxIV63QD 
+	Encrypted text = uJS4F3ywLtwZ:OqDG<5vkAaLY96TGuJS4F3ywLtwZ:OqDG<5vkAaLY96TG
+	Quotient = 81.82758620689656
+Text with shift encryption: 
+	Open text: tQ5DW5QiSB 
+	Encrypted text = wT8GZ8TlVEwT8GZ8TlVE
+	Quotient = 79.3
+Summa of Quotients  = 1019.501976882264

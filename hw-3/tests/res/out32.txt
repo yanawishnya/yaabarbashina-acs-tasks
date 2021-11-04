@@ -1,0 +1,14 @@
+Container stores 3 texts:
+Text with swap encryption: 
+	Open text: ilovelinal 
+	Encrypted text = c12defg3klc12defg3kl
+	Quotient = 107.1
+Text with shift encryption: 
+	Open text: lalalala123123 
+	Encrypted text = odododod456456odododod456456
+	Quotient = 80.0
+Text with digits encryption: 
+	Open text: a1s2d3f4 
+	Encrypted text = 971115210031024971115210031024
+	Quotient = 77.0
+Summa of Quotients  = 264.1

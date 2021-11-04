@@ -1,0 +1,30 @@
+Container stores 7 texts:
+Text with shift encryption: 
+	Open text: qwertwufbsbvbbvnnsnf123 
+	Encrypted text = tzhuwzxieveyeeyqqvqi456tzhuwzxieveyeeyqqvqi456
+	Quotient = 101.78260869565217
+Text with shift encryption: 
+	Open text: fahfbdfbabsbfebfabqhvasvavshdvhachqbbfiqhfeks123 
+	Encrypted text = idkiegiedeveiheidetkydvydyvkgykdfkteeiltkihnv456idkiegiedeveiheidetkydvydyvkgykdfkteeiltkihnv456
+	Quotient = 100.79166666666667
+Text with digits encryption: 
+	Open text: xczxcbjjadgsefhewgshdfgsdhjhsdgfhsdgfhsjdgfsghdjhsds1gvf232v3g2gv32ggv 
+	Encrypted text = 12099122120999810610697100103115101102104101119103115104100102103115100104106104115100103102104115100103102104115106100103102115103104100106104115100115110311810223211831032103118321031031181209912212099981061069710010311510110210410111910311510410010210311510010410610411510010310210411510010310210411510610010310211510310410010610411510011511031181022321183103210311832103103118
+	Quotient = 99.92857142857143
+Text with swap encryption: 
+	Open text: acacacacacccc 
+	Encrypted text = c12defg3klm5nc12defg3klm5n
+	Quotient = 98.23076923076923
+Text with digits encryption: 
+	Open text: sdjkfhkjsd22 
+	Encrypted text = 1151001061071021041071061151002211510010610710210410710611510022
+	Quotient = 96.83333333333333
+Text with shift encryption: 
+	Open text: qwyefrty5fyteqwd66762gwevfwtv6247gfwefvquefu2673 
+	Encrypted text = tzbhiuwb8ibwhtzg99:95jzhyizwy957:jizhiytxhix59:6tzbhiuwb8ibwhtzg99:95jzhyizwy957:jizhiytxhix59:6
+	Quotient = 93.97916666666667
+Text with swap encryption: 
+	Open text: qqweqweqqweqqweqweqeqeqeqwq12345675855 
+	Encrypted text = c12defg3klm5ns4tu67vwx8opq0ry9zabhijc1c12defg3klm5ns4tu67vwx8opq0ry9zabhijc1
+	Quotient = 93.94736842105263
+Summa of Quotients  = 685.4934844427121

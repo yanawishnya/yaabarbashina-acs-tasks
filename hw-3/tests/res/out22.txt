@@ -1,0 +1,58 @@
+Container stores 14 texts:
+Text with swap encryption: 
+	Open text: travisscott 
+	Encrypted text = c12defg3klmc12defg3klm
+	Quotient = 111.0909090909091
+Text with shift encryption: 
+	Open text: qweqweqweerityieruteiruteiurt 
+	Encrypted text = tzhtzhtzhhulwblhuxwhluxwhlxuwtzhtzhtzhhulwblhuxwhluxwhlxuw
+	Quotient = 110.86206896551724
+Text with digits encryption: 
+	Open text: jdnnwknfgegbbdfbcjwjvkdsnvjgbgfdhfjsfuyutrtruwebvncmkrnenbfnv 
+	Encrypted text = 10610011011011910711010210310110398981001029899106119106118107100115110118106103981031021001041021061151021171211171161141161141171191019811811099109107114110101110981021101181061001101101191071101021031011039898100102989910611910611810710011511011810610398103102100104102106115102117121117116114116114117119101981181109910910711411010111098102110118
+	Quotient = 107.57377049180327
+Text with shift encryption: 
+	Open text: kdmflamfklmfkne 
+	Encrypted text = ngpiodpinopinqhngpiodpinopinqh
+	Quotient = 105.2
+Text with shift encryption: 
+	Open text: asdajsbfhasbh 
+	Encrypted text = dvgdmveikdvekdvgdmveikdvek
+	Quotient = 103.6923076923077
+Text with shift encryption: 
+	Open text: n5n5n5nslallsllsl 
+	Encrypted text = q8q8q8qvodoovoovoq8q8q8qvodoovoovo
+	Quotient = 99.3529411764706
+Text with swap encryption: 
+	Open text: aaa 
+	Encrypted text = c12c12
+	Quotient = 97.0
+Text with digits encryption: 
+	Open text: sdjkfhkjsd22 
+	Encrypted text = 1151001061071021041071061151002211510010610710210410710611510022
+	Quotient = 96.83333333333333
+Text with swap encryption: 
+	Open text: 123123hsjfjsdhfsjdhfjsfh 
+	Encrypted text = c12defg3klm5ns4tu67vwx8oc12defg3klm5ns4tu67vwx8o
+	Quotient = 92.0
+Text with digits encryption: 
+	Open text: 1q2w3e4r5t6y7u8i9oshhfshjf 
+	Encrypted text = 111321193101411451166121711781059111115104104102115104106102111321193101411451166121711781059111115104104102115104106102
+	Quotient = 90.23076923076923
+Text with digits encryption: 
+	Open text: lamusicatheherryfraud123123123 
+	Encrypted text = 1089710911711510599971161041011041011141141211021149711710012312312310897109117115105999711610410110410111411412110211497117100123123123
+	Quotient = 90.06666666666666
+Text with digits encryption: 
+	Open text: theweeknd010101 
+	Encrypted text = 116104101119101101107110100010101116104101119101101107110100010101
+	Quotient = 83.33333333333333
+Text with digits encryption: 
+	Open text: 1q1q1q1q11q1qq1q1q1 
+	Encrypted text = 11131113111311131111311131131113111311113111311131113111131113113111311131
+	Quotient = 79.3157894736842
+Text with shift encryption: 
+	Open text: 123123123 
+	Encrypted text = 456456456456456456
+	Quotient = 50.0
+Summa of Quotients  = 1316.5518894547945
