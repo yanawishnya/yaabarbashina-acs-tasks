@@ -1,0 +1,7 @@
+# ninja log v5
+23	102	6614009091524645	CMakeFiles/avs_dz5.dir/author.cpp.obj	797c68552e4eb83
+0	106	6614009091564623	CMakeFiles/avs_dz5.dir/reader.cpp.obj	692331f952b8ccff
+5	1005	6614022878363354	CMakeFiles/avs_dz5.dir/main.cpp.obj	19cf2e97ca1ddb3e
+1006	1179	6614022880047980	avs_dz5.exe	7c8c2b6074906d7a
+6	1398	6614035198638820	CMakeFiles/avs_dz5.dir/main.cpp.obj	19cf2e97ca1ddb3e
+1398	1611	6614035200758859	avs_dz5.exe	bad5434a14efe47e
